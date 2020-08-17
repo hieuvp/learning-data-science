@@ -105,6 +105,8 @@
 
 #### Python for Data Visualization - Matplotlib
 
+1. [ ] [Welcome to the Data Visualization Section!](README.md)
+1. [ ] [Introduction to Matplotlib](README.md)
 1. [ ] [Matplotlib Part 1](README.md)
 1. [ ] [Matplotlib Part 2](README.md)
 1. [ ] [Matplotlib Part 3](README.md)
@@ -114,6 +116,7 @@
 #### Python for Data Visualization - Seaborn
 
 1. [ ] [Introduction to Seaborn](README.md)
+1. [ ] [Distribution Plots](README.md)
 1. [ ] [Categorical Plots](README.md)
 1. [ ] [Matrix Plots](README.md)
 1. [ ] [Grids](README.md)
@@ -130,11 +133,13 @@
 
 #### Python for Data Visualization - Plotly and Cufflinks
 
+1. [ ] [Introduction to Plotly and Cufflinks](README.md)
 1. [ ] [READ ME FIRST BEFORE PLOTLY PLEASE!](README.md)
 1. [ ] [Plotly and Cufflinks](README.md)
 
 #### Python for Data Visualization - Geographical Plotting
 
+1. [ ] [Introduction to Geographical Plotting](README.md)
 1. [ ] [Choropleth Maps - Part 1 - USA](README.md)
 1. [ ] [Choropleth Maps - Part 2 - World](README.md)
 1. [ ] [Choropleth Exercises](README.md)
@@ -142,6 +147,8 @@
 
 #### Data Capstone Project
 
+1. [ ] [Welcome to the Data Capstone Projects!](README.md)
+1. [ ] [911 Calls Project Overview](README.md)
 1. [ ] [911 Calls Solutions - Part 1](README.md)
 1. [ ] [911 Calls Solutions - Part 2](README.md)
 1. [ ] [Bank Data](README.md)
